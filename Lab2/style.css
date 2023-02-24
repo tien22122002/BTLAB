@@ -1,0 +1,22 @@
+.home
+{
+    width: 1000px;
+    height: 300px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(41, 112, 160);
+    
+}
+h2{
+    color: #868787;
+    font-family: sans-serif;
+}
+input{
+    width: 200px;
+    height: 50px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    padding-left: 20px;
+}
